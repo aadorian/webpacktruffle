@@ -26,4 +26,6 @@ migrate --reset
 
 MetaCoin a Metamask
 
+Solución: 
 
+usar Ganache y cambiar el puerto a 7545 
